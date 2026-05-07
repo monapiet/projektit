@@ -1,8 +1,8 @@
-My Programming Projects / Ohjelmointiprojektit
+# My Programming Projects / Ohjelmointiprojektit
 
-Overview / Yleiskuva
+## Overview / Yleiskuva
 
-**English:**  
+### **English:**  
 This repository contains various programming projects I have created for learning and practice purposes.
 The projects are organized into separate folders based on the technologies used, such as:
 
@@ -12,7 +12,7 @@ The projects are organized into separate folders based on the technologies used,
 
 Each project is placed in its own subfolder and includes a README file describing the project, its features, and how to run or view it.
 
-**Suomi:**  
+### **Suomi:**  
 Tämä repositorio sisältää erilaisia ohjelmointiprojekteja, joita olen tehnyt oppimisen ja harjoittelun vuoksi.
 Projektit on jaettu omiin kansioihinsa käytettyjen teknologioiden mukaan, kuten:
 
