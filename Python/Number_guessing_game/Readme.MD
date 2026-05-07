@@ -28,3 +28,14 @@ Varmista, että Python on asennettu.
 Jos Colorama ei ole asennettuna, asenna se komennolla pip install colorama.
 Suorita ohjelma komennolla python guessing_game.py.
 Syötä lukuja väliltä 1–100, kun ohjelma pyytää. Ohjelma antaa palautetta ja laskee yritysten määrän, kunnes arvaat oikein.
+
+## Example Output / Esimerkkituloste
+
+### Too Low / Liian pieni arvaus
+![Too low](wrong_answer.png)
+
+### Too High / Liian suuri arvaus
+![Too high](wrong_answer2.png)
+
+### Correct Guess / Oikea arvaus
+![Correct](right_answer.png)
