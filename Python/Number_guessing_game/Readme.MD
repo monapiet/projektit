@@ -1,5 +1,5 @@
-##  Number Guessing Game
-# Description / Kuvaus
+#  Number Guessing Game
+## Description / Kuvaus
 English:
 Number Guessing Game is a Python program where the player tries to guess a randomly generated number between 1 and 100.
 The program gives colored feedback using the Colorama library to indicate if the guess is too high, too low, or correct.
