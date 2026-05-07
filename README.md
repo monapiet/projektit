@@ -1,3 +1,4 @@
+<img src="https://cdn.pixabay.com/photo/2022/05/06/16/40/matrix-7178709_1280.png" width="100%">
 # My Programming Projects / Ohjelmointiprojektit
 
 ## Overview / Yleiskuva
@@ -22,5 +23,5 @@ Projektit on jaettu omiin kansioihinsa käytettyjen teknologioiden mukaan, kuten
 
 Jokainen projekti on omassa alikansiossaan ja sisältää README‑tiedoston, jossa kerrotaan projektista, sen ominaisuuksista ja ohjeet projektin suorittamiseen tai katseluun.
 
-<img src="https://cdn.pixabay.com/photo/2022/05/06/16/40/matrix-7178709_1280.png" width="100%">
+
 
