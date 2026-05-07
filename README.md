@@ -1,4 +1,3 @@
-<img src="https://cdn.pixabay.com/photo/2022/05/06/16/40/matrix-7178709_1280.png" width="100%">
 # My Programming Projects / Ohjelmointiprojektit
 
 ## Overview / Yleiskuva
