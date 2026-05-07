@@ -31,3 +31,7 @@ Age Calculator on Python-ohjelma, joka laskee käyttäjän iän vuosina, kuukaus
 
   Ohjelma tulostaa iän vuosina, kuukausina ja päivinä.
 
+## Example Output
+![Screenshot](age_calculator_image.png)
+
+
