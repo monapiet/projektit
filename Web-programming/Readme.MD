@@ -10,3 +10,6 @@ practice and improve fundamental web development skills.
 Tässä kansiossa on webohjelmoinnin projekteja, harjoituksia ja kokeiluja. 
 Kansio sisältää erilaisia HTML-, CSS- ja JavaScript‑toteutuksia, joiden 
 tarkoituksena on harjoitella ja kehittää web-kehityksen perustaitoja.
+
+![Fastfoodshop preview](./fastfoodshop_picture.png)
+

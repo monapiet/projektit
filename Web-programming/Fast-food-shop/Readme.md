@@ -40,3 +40,6 @@ Näitä aiheita ei ole vielä käsitelty opinnoissani, joten projekti antoi mahd
 Käytin Microsoft Copilotia oppimisen tukena projektin aikana.
 Osa asioista oli minulle uusia — kuten useiden nappien käsittely, class‑valitsimien hyödyntäminen JS-puolella, data-id‑arvot ja niiden lukeminen dataset ominaisuudella.
 Copilot auttoi ymmärtämään nämä tekniikat, ja toteutin lopullisen koodin itse.
+
+## FastFoodShop – UI preview
+![Fastfoodshop preview](./fastfoodshop_picture.png)
