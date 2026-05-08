@@ -3,13 +3,40 @@
 ## Overview / Yleiskuva
 
 ### English
-Fast Food Shop is a simple web-based food ordering demo created for practicing basic web development skills.
-The project includes a small selection of fast‑food items such as burgers, pizza, and drinks. Each product has an image, price, and an “Add to Cart” button. The shopping cart updates dynamically as items are added or removed.
+This project is a simple fast‑food shop interface built with HTML, CSS, and JavaScript.
+The main goal was to practice DOM manipulation, event listeners, and dynamic data handling by creating a functional shopping cart system.
 
-The goal of this project is to learn and demonstrate core concepts of HTML structure, CSS styling, and JavaScript interactivity through a clean and beginner‑friendly layout.
+The application displays a list of products, each with an “Add to Cart” button. When a product is added, the cart updates in real time and shows the total price.
+
+### Purpose of the Project
+This project was created as a personal learning exercise.
+I wanted to understand how to:
+-handle multiple buttons dynamically
+-use JavaScript to update the DOM
+-store data in arrays
+-work with data-* attributes
+-connect UI elements to JavaScript logic
+
+These concepts had not yet been covered in my studies, so this project allowed me to explore them independently.
+
+### AI Assistance
+I used Microsoft Copilot as a learning aid during this project.
+Some parts were new to me — such as handling multiple buttons, using class selectors on the JavaScript side, working with data-id values, and reading them through the dataset property.
+Copilot helped me understand these techniques, and I implemented the final code myself.
 
 ### Suomi
-Fast Food Shop on yksinkertainen verkkopohjainen ruokakaupan demo, joka on tehty web‑kehityksen perusteiden harjoitteluun.
-Projektissa on pieni valikoima pikaruokatuotteita, kuten hampurilaisia, pizzaa ja juomia. Jokaisella tuotteella on kuva, hinta ja “Lisää ostoskoriin” ‑painike. Ostoskori päivittyy dynaamisesti tuotteiden lisäämisen ja poistamisen mukaan.
+Projektin tarkoitus
+Tein tämän projektin harjoitustyönä, jotta pääsisin kokeilemaan ja opettelemaan uusia JavaScript‑tekniikoita käytännössä.
+Halusin oppia:
+-käsittelemään useita nappeja dynaamisesti
+-päivittämään DOM‑rakennetta JavaScriptillä
+-tallentamaan dataa arrayhin
+-hyödyntämään HTML‑elementteihin tallennettuja data‑arvoja (data-id)
+-yhdistämään käyttöliittymän elementit JavaScript‑logiikkaan
 
-Projektin tavoitteena on harjoitella HTML‑rakennetta, CSS‑tyylittelyä ja JavaScript‑toiminnallisuuksia selkeän ja aloittelijaystävällisen käyttöliittymän kautta.
+Näitä aiheita ei ole vielä käsitelty opinnoissani, joten projekti antoi mahdollisuuden harjoitella niitä itsenäisesti.
+
+### AI‑apu
+Käytin Microsoft Copilotia oppimisen tukena projektin aikana.
+Osa asioista oli minulle uusia — kuten useiden nappien käsittely, class‑valitsimien hyödyntäminen JS-puolella, data-id‑arvot ja niiden lukeminen dataset ominaisuudella.
+Copilot auttoi ymmärtämään nämä tekniikat, ja toteutin lopullisen koodin itse.
