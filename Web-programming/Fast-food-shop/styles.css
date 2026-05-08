@@ -11,7 +11,6 @@ img {
     width: auto;
     display: block;
     object-fit: cover;
-    
 }
 
 
@@ -22,8 +21,7 @@ img {
     margin-bottom: 50px;
     font-size: 800;
     color: #d41616;
-    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.514);
-    
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.514);  
 
 }
 
