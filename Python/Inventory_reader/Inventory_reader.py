@@ -36,7 +36,7 @@ for product in products:
 print(f"TOTAL INVENTORY VALUE:\n{round_value} €")
 print("")
 
-# Hedline for out of stock items
+# Headline for out of stock items
 print(f"OUT OF STOCK ITEMS:")
 # Loop products and find products out of stock (quantity = 0)
 for product in products:
