@@ -1,7 +1,7 @@
 # Inventory reader
 
 ## Description / Kuvaus
-English:
+### English:
 Inventory Report is a Python program that reads product data from a JSON file and generates a clear warehouse summary.
 The program displays low‑stock items, out‑of‑stock items, the total inventory value, and category‑based quantities and values.
 The JSON dataset used in this project was generated with AI (Microsoft Copilot) specifically for this implementation.
