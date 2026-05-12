@@ -96,7 +96,7 @@ This project is built with simple, modern web technologies:
 
 ### Suomi:  
 Tämä projekti on toteutettu kevyillä ja moderneilla web‑teknologioilla:
--HTML
--CSS
--JavaScript
--JSON data
+- HTML
+- CSS
+- JavaScript
+- JSON data
