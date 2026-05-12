@@ -153,10 +153,7 @@ function createTable(data) {
         return 0;
     });
     // create table from the sorted names
-    createTable(sorted);
-
-
-   
+    createTable(sorted); 
   }
 
 
