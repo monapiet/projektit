@@ -1,0 +1,29 @@
+body {
+    background:#f5b4d5;
+    margin-left: 50px;
+}
+#products th {
+    text-transform: capitalize;
+    padding: 5px;
+}
+
+#products td {
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* table borders*/
+#products, #products th, #products td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#search {
+    margin-bottom: 2px;
+}
+
+.tip {
+    margin: 4px 0 12px 0;
+    font-size: 12px;
+}
