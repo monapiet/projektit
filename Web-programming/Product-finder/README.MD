@@ -125,13 +125,14 @@ JavaScript (ES6)
 JSON dataset (AI‑generated)
 
 ## Folder Structure / Kansiot
-
+```
 Product Finder/
 │── index.html
 │── styles.css
 │── script.js
 │── warehouse.json
 └── README.md
+```
 
 
 ## Preview / Esikatselu
