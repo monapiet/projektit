@@ -25,7 +25,13 @@ Some parts were new to me — such as handling multiple buttons, using class sel
 Copilot helped me understand these techniques, and I implemented the final code myself.
 
 ### Suomi
-Projektin tarkoitus
+Tämä projekti on yksinkertainen pikaruokakaupan sivu, joka on tehty HTML-, CSS- ja JavaScript‑kielillä.
+Tarkoitus oli harjoitella sitä, miten sivulla voi muuttaa asioita, kun käyttäjä klikkaa nappeja.
+
+Sovellus näyttää listan tuotteita, ja jokaisessa on “Lisää koriin” ‑painike.
+Kun tuotteen lisää, ostoskori päivittyy heti ja näyttää uuden hinnan.
+
+### Projektin tarkoitus
 Tein tämän projektin harjoitustyönä, jotta pääsisin kokeilemaan ja opettelemaan uusia JavaScript‑tekniikoita käytännössä.
 Halusin oppia:
 -käsittelemään useita nappeja dynaamisesti
