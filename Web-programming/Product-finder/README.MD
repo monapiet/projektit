@@ -133,6 +133,7 @@ Product Finder/
 │── warehouse.json
 └── README.md
 
+
 ## Preview / Esikatselu
 ## Normal search
 ![Normal search](preview1.png)
